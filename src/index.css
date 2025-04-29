@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+
+}
+.navbar{
+  background-color: #333;
+  color: white;
+  padding: 10px 5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-brand{
+  font-size: 24px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.nav-link{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.footer{
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 5%;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
